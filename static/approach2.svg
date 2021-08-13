@@ -1,0 +1,15 @@
+<svg width="282" height="102" viewBox="0 0 282 102" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect x="0.679932" width="101" height="102" rx="50.5" fill="#F4F5F7"/>
+<path opacity="0.4" d="M38.6033 45.9048V65.3418" stroke="#6D7BBA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" d="M51.6959 36.6041V65.3418" stroke="#6D7BBA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.4" d="M64.5747 56.176V65.3419" stroke="#6D7BBA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.735 22.6666H38.443C29.2782 22.6666 23.5334 29.2175 23.5334 38.4912V63.5087C23.5334 72.7824 29.2514 79.3333 38.443 79.3333H64.735C73.9266 79.3333 79.6446 72.7824 79.6446 63.5087V38.4912C79.6446 29.2175 73.9266 22.6666 64.735 22.6666Z" stroke="#6D7BBA" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M117.68 12.8474C117.68 12.8474 166.443 8.19891 201.705 14.4165C236.966 20.634 280.173 36.4994 280.173 36.4994" stroke="#D9DBE1" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="280.904" height="102" fill="white" transform="translate(0.679932)"/>
+</clipPath>
+</defs>
+</svg>
