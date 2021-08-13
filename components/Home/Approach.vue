@@ -4,7 +4,6 @@
       <img class="-mt-80 w-2/12" src="dna.svg" alt="dna" />
       <div
         class="bg-no-repeat bg-contain bg-center w-full pb-48 my-0 mx-auto"
-        :style="{ backgroundImage: `url(${backgroundImagePath})` }"
       >
         <h2 class="lg:text-5xl text-3xl text-center font-light lg:mt-20 mt-16 text-t-purple ">
           There's a <span class="font-bold">path</span> to follow
@@ -46,7 +45,6 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import backgroundImagePath from 'static/approach-bg.svg'
 import ApproachFeat from './ApproachFeat.vue'
 import ApproachCta from './ApproachCta.vue'
 export default Vue.extend({
@@ -54,9 +52,7 @@ export default Vue.extend({
     ApproachFeat,
     ApproachCta
   },
-  data() {
-    return { backgroundImagePath }
-  },
+
 })
 </script>
 

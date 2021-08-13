@@ -45,12 +45,7 @@ export default Vue.extend({
       align: this.order,
     }
   },
-  watch: {
-    img(val) {
-      // eslint-disable-next-line vue/no-mutating-props
-      this.img = val
-    },
-  },
+
 })
 </script>
 

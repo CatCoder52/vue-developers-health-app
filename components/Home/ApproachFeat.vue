@@ -27,12 +27,7 @@ export default Vue.extend({
       default: 'Lorem ipsum brief',
     },
   },
-  watch: {
-    img(val) {
-      // eslint-disable-next-line vue/no-mutating-props
-      this.img = val
-    },
-  },
+
 })
 </script>
 
